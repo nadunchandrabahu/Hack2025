@@ -1,6 +1,6 @@
-# Spoken language identification (GRN Hack 2025)
+# Spoken language identification (GRN #Hack2025)
 
-A tool that listens to a short audio clip and predicts which language is being spoken. Built during Hack 2025 for Global Recordings Network (GRN), a non-profit that records and archives speech in thousands of languages, many of them rare or endangered.
+A tool that listens to a short audio clip and predicts which language is being spoken. Built during #Hack2025 for Global Recordings Network (GRN), a non-profit that records and archives speech in thousands of languages, many of them rare or endangered.
 
 This repository holds my part of the project: a working desktop demo that records from your microphone and names the language, plus an experiment in adapting the underlying model to GRN's own recordings. The rest of the team built a full web app around the same idea.
 
@@ -67,7 +67,7 @@ The natural next step lives inside the web app. When a user records something an
 ```
 language-detection-app.ipynb          The runnable microphone demo
 fineTune_mms_lid_4017.ipynb           The fine-tuning experiment
-Handover Report - Nadun - Hack.docx   Notes for whoever picks this up next
+Handover Report - Nadun - Hack 2025.docx   Notes for whoever picks this up next
 df_isoLang.csv                        GRN's language list with ISO codes
 ```
 
@@ -75,7 +75,7 @@ You will also need sample audio to test against. The notebooks pull clips direct
 
 ## Credits
 
-Built at Hack 2025, hosted by Global Recordings Network in Australia.
+Built at #Hack2025, hosted by Global Recordings Network in Australia.
 
 - Michael Madry, web app functionality
 - Timothy Wildig, backend engineering
