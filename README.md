@@ -67,7 +67,7 @@ The natural next step lives inside the web app. When a user records something an
 ```
 language-detection-app.ipynb          The runnable microphone demo
 fineTune_mms_lid_4017.ipynb           The fine-tuning experiment
-Handover_Report_-_Nadun_-_Hack.docx   Notes for whoever picks this up next
+Handover Report - Nadun - Hack.docx   Notes for whoever picks this up next
 df_isoLang.csv                        GRN's language list with ISO codes
 ```
 
